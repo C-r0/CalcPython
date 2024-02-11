@@ -18,5 +18,4 @@ if numC == 4:
     num6 = num1 * num2
     print("A Resposta de Sua Multiplicação é:",num6)
 
-
-
+input()
